@@ -1277,7 +1277,7 @@
     (property "Value" "16MHz" (at 107.95 50.8 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_QFP:TQFP-44_10x10mm_P0.8mm" (at 106.68 55.88 0)
+    (property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering" (at 106.68 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 106.68 55.88 0)
